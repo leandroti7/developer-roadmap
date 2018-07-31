@@ -9,17 +9,17 @@ This file contains the frontend roadmap translated in the checklist form to make
 First thing that you would want to do is learn the basics which includes learning the basics of HTML, CSS and some familiarization with JavaScript syntax. 
 
 - [x] Learn the basics of HTML
-  - [ ] Learn the basics and how to write semantic HTML
-  - [ ] Understand how to divide page into sections and to structure the DOM properly
-  - [ ] **Task** Make at least 5 HTML pages – focus on structure, don't worry about the *beauty* yet
-- [ ] Learn the basics of CSS
-  - [ ] Learn the basics of CSS
+  - [x] Learn the basics and how to write semantic HTML
+  - [x] Understand how to divide page into sections and to structure the DOM properly
+  - [x] **Task** Make at least 5 HTML pages – focus on structure, don't worry about the *beauty* yet
+- [x] Learn the basics of CSS
+  - [x] Learn the basics of CSS
   - [ ] Learn how to use Grid and Flexbox
-  - [ ] Media queries and how to make responsive websites
-  - [ ] Understand CSS Specificity, Box-Model etc
-  - [ ] **Task** Style the HTML pages that you made in last step
-- [ ] Basics of JavaScript
-  - [ ] Learn the syntax and the basic constructs
+  - [x] Media queries and how to make responsive websites
+  - [x] Understand CSS Specificity, Box-Model etc
+  - [x] **Task** Style the HTML pages that you made in last step
+- [x] Basics of JavaScript
+  - [x] Learn the syntax and the basic constructs
   - [ ] Learn how to manipulate DOM
   - [ ] Understand the concepts such as hoisting, event bubbling, prototypes etc
   - [ ] Learn Ajax (XHR)
@@ -47,7 +47,7 @@ Link this repo and tell them you are learning and ask for feedback on your PR an
 
 NPM and Yarn both are almost same in usage; you can learn one of them and you automatically learn the other.
 
-- [ ] Learn how to use NPM
+- [x] Learn how to use NPM
 - [ ] Learn how to use Yarn
 - [ ] Understand Semantic Versioning
 - [ ] **Task** Install some external library using yarn or npm into the webpages that you made previously
@@ -57,7 +57,7 @@ NPM and Yarn both are almost same in usage; you can learn one of them and you au
 Preprocessors enrich CSS with the functionality that it isn’t capable of by default. There are different many options Sass, Less, Stylus etc. If I were to pick one, I would go for Sass. However, PostCSS has been gaining a lot of traction lately, it is a nice-to-have and is sort of “Babel” for CSS. You can use it stand-alone or on top of Sass also. I would recommend you to learn Sass for now and revisit PostCSS later when you have time.
 
 - [ ] Pick one of these
-  - [ ] **Sass (Recommended)**
+  - [x] **Sass (Recommended)**
   - [ ] Less
   - [ ] **PostCSS (do this later)**
   - [ ] Stylus
@@ -74,11 +74,12 @@ This used to be way up in the chart, but I moved it down below as they aren't re
 
 As your applications grow, CSS start to become messy and unmaintainable. There are multiple ways to structure your CSS better for scalability
 
-- [ ] **BEM – Recommended**
+- [x] **BEM – Recommended**
 - [ ] OOCSS
 - [ ] SMACSS
 - [ ] SUITCSS
 - [ ] Atomic
+- [ ] RSCSS
 
 ## Step 8 – Learn the Build tools
 
@@ -86,7 +87,7 @@ These are the tools that help you in bundling, building and development of your 
 
 There used to be alot of stuff in the task runners but today I would just pick NPM scripts, however if you want to pick something else, have a look at gulp
 
-- [ ] **NPM Scripts (Recommended)**
+- [x] **NPM Scripts (Recommended)**
 - [ ] Gulp
 
 There are several linters, but I would go for ESLint. Feel free to have a look at others and see why one over the other
